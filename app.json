@@ -17,9 +17,9 @@
       "value": "Ainz",
       "required": false
     },
-    "NUMERO_OWNER": {
+    "NUMERO_OWNER": {242056483005 
       "description": "Numéro WhatsApp de l'Owner (au format international)",
-      "value": "226xxxxxxxx",
+      "value": "242056483005 ",
       "required": true
     },
     "MODE": {
@@ -27,7 +27,7 @@
       "value": "public",
       "required": false
     },
-    "SESSION_ID": {
+    "SESSION_ID": {Ovl-MD_tsmWIQFz_SESSION-ID
       "description": "Identifiant de session",
       "value": "",
       "required": true
