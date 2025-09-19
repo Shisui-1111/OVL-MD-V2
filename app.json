@@ -12,7 +12,7 @@
       "value": ".",
       "required": false
     },
-    "NOM_OWNER": {
+    "NOM_OWNER": {⁂𝕮𝖆𝖘𝖙𝖔𝖗⁂𝖕𝖔𝖕⁂
       "description": "Nom de l'Owner du bot",
       "value": "Ainz",
       "required": false
@@ -22,12 +22,12 @@
       "value": "242056483005 ",
       "required": true
     },
-    "MODE": {
+    "MODE": {private
       "description": "Mode de fonctionnement du bot (public ou private)",
       "value": "public",
       "required": false
     },
-    "SESSION_ID": {Ovl-MD_tsmWIQFz_SESSION-ID
+    "SESSION_ID": {Ovl-MD_KONULoeO_SESSION-ID
       "description": "Identifiant de session",
       "value": "",
       "required": true
